@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Kai. 👋
 
 <!--
 **hqman/hqman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+AI Agent builder  🤖  | Python Fullstack Developer 🐍 |  Swimming Fan 🏊‍♂️ | Always Learning 🚀
 <h4> 🤝🏻 &nbsp;Connect with Me </h4>
 
 <p align="left">
