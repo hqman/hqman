@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- AI Agent builder  🤖  
+- AI Builder  🤖  
 - Python Fullstack Developer 🐍 
 - Swimming Fan 🏊‍♂️ 
 <h4> 🤝🏻 &nbsp;Connect with Me </h4>
