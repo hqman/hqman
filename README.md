@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://www.hqman.us"><img src="https://img.shields.io/badge/-website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 -->
 - AI Builder  🤖  
-- Python Fullstack Developer 🐍 
+- Fullstack Developer 🐍 
 - Swimming Fan 🏊‍♂️ 
 <h4> 🤝🏻 &nbsp;Connect with Me </h4>
 
