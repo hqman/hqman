@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <a href="https://www.hqman.us"><img src="https://img.shields.io/badge/-website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 -->
-- AI Builder  🤖  
+- AI Engineer  🤖  
 - Fullstack Developer 🐍 
 - Swimming Fan 🏊‍♂️ 
 <h4> 🤝🏻 &nbsp;Connect with Me </h4>
